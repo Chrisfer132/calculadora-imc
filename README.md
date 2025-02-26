@@ -8,9 +8,9 @@ Uma aplicação simples para calcular o Índice de Massa Corporal (IMC) com uma 
 - JavaScript
 
 ## 🌍 Acesse a Plataforma
-🔗 Link do projeto online: [DevConverter](https://chrisfer132.github.io/calculadora-imc/)
+🔗 Link do projeto online: [Calculadora IMC](https://chrisfer132.github.io/calculadora-imc/)
 
-🔗 Repositório no GitHub: [GitHub - DevConverter](https://github.com/Chrisfer132/calculadora-imc)
+🔗 Repositório no GitHub: [GitHub - Calculadora IMC](https://github.com/Chrisfer132/calculadora-imc)
 
 ## 🎯 Funcionalidades
 - Entrada de dados para altura e peso
