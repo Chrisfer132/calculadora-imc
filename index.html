@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora IMC</title>
+</head>
+<body>
+    <main>
+        <section class="conteudo">
+            <h1 class="conteudo__titulo">Calculadora IMC</h1>
+            <section class="informacoes">
+                <div>
+                    <p>Altura:</p>
+                    <input id="altura" class="input" type="text" placeholder="Ex: 1.70">
+                </div>
+                <div>
+                    <p>Peso:</p>
+                    <input id="peso" class="input" type="text" placeholder="Ex: 60">
+                </div>
+            </section>
+            <div>
+                <button onclick="calculo()" class="botao">Calcular</button>
+            </div>
+            <div id="resultado">
+                <p></p>
+            </div>
+        </section>
+    </main>
+    <footer class="rodape">
+        <p>Desenvolvido por Christian Gauer</p>
+    </footer>
+</body>
+<script src="app.js"></script>
+</html>
